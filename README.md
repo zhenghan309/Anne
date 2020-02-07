@@ -1,0 +1,2 @@
+# Anne
+pip install itchat
